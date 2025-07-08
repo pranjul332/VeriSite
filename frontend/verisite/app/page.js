@@ -106,7 +106,7 @@ export default function Home() {
     setResult(null);
     setError(null);
   };
-
+ 
   const getVerdictColor = (verdict) => {
     switch (verdict) {
       case "true":
