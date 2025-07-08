@@ -392,9 +392,6 @@ DEBUG=cache,redis npm start
 - Write comprehensive tests
 - Document new features
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -404,15 +401,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Redis Labs for caching infrastructure
 - The open-source community for excellent tools
 
-## 📞 Support
 
-For support and questions:
-- Create an issue in the repository
-- Check existing documentation
-- Review the troubleshooting guide
 
 ---
 
-**Version**: 2.0.0  
-**Last Updated**: January 2025  
+**Version**: 1.0.0  
+**Last Updated**: July 2025  
 **Minimum Node.js Version**: 18.0.0
